@@ -1,0 +1,4 @@
+__pycache__
+.env
+todo.db
+core/__pycache__
